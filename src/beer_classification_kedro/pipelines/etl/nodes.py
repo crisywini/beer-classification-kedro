@@ -14,6 +14,9 @@ def get_data_from_url(parameters) -> pd.DataFrame:
 
 
 def process_data(data: pd.DataFrame) -> pd.DataFrame:
+    '''
+    This function allows to create the cleaning process for the dataset
+    '''
     return (data
             .pipe(drop_exact_duplicates)
             .pipe(drop_gargbage_columns)
