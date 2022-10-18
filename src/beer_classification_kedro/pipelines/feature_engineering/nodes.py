@@ -5,7 +5,7 @@ generated using Kedro 0.18.3
 import pandas as pd 
 from sklearn.utils import resample
 
-def resample_classes(data: pd.DataFrame) -> pd.DataTrain:
+def resample_classes(data: pd.DataFrame) -> pd.DataFrame:
     '''
     This function allows to resample the classes with less than 100 elements on it
     '''

@@ -9,3 +9,8 @@ data_raw:
 data_clean: 
   type: pandas.ParquetDataSet
   filepath: data/02_intermediate/data_clean.parquet
+
+
+data_balanced:
+  type: pandas.ParquetDataSet
+  filepath: data/02_intermediate/data_balanced.parquet
