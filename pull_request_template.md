@@ -1,7 +1,7 @@
 # Changes 💡
 Describe a review of your additions, changes or fixes into the code
 # Data affected 🤔
-- [ ] external
+- [ ] raw
 - [ ] intermediate
 - [ ] primary
 - [ ] feature
