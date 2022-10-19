@@ -28,3 +28,8 @@ model_trained:
   filepath: data/06_models/beer_classification.pkl
   backend: pickle
   layer: models
+
+cross_validation_score:
+  type: kedro.extras.datasets.text.TextDataSet
+  filepath: data/07_model_output/cross_validation_score.txt
+  layer: model output    
