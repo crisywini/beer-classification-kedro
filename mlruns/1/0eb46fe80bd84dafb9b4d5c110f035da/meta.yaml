@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/cristian.sanchezp/Documents/uniquindio/maestria/procesamiento_analitico/final_project/analytical-processing-final-project-kedro/beer-classification-kedro/mlruns/1/0eb46fe80bd84dafb9b4d5c110f035da/artifacts
+end_time: 1666137923182
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 0eb46fe80bd84dafb9b4d5c110f035da
+run_uuid: 0eb46fe80bd84dafb9b4d5c110f035da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1666137870666
+status: 3
+tags: []
+user_id: cristian.sanchezp

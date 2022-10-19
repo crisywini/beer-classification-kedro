@@ -22,3 +22,9 @@ data_labeled:
 data_balanced:
   type: pandas.ParquetDataSet
   filepath: data/02_intermediate/data_balanced.parquet
+
+model_trained:
+  type: pickle.PickleDataSet
+  filepath: data/06_models/beer_classification.pkl
+  backend: pickle
+  layer: models
